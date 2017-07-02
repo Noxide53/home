@@ -11,6 +11,7 @@ body {
 	padding: 0;
 	text-align: center;
 	width: 100%;
+	overflow:hidden;
 }
 .page_title {
 	font-weight: 300;
